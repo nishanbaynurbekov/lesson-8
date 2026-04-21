@@ -29,9 +29,9 @@ th, td{
     background-color: gold;
  }
 
- @media(min-width: 450px)and (max-width: 770px) {
+ @media(max-width: 450px) {
    .biz{
-      width: 400px;
+      width: 100%;
       min-height: 600px ;
       background-color: chartreuse;
    }
