@@ -32,8 +32,14 @@ th, td{
  @media(max-width: 450px) {
    .biz{
       width: 100%;
-      min-height: 600px ;
-      background-color: chartreuse;
+      min-height: 800px ;
    }
+   table{
+    width: 100%;
+    min-height: 600px;
+   }
+    th{
+        background-color: aqua;
+    }
  }
  
